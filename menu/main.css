@@ -25,6 +25,10 @@ header {
     box-shadow: 0 0 25px 0 black;
 }
 
+.menu {
+    width: 50%
+}
+
 #cen_img {
     display: block;
     margin: auto;
