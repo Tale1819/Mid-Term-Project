@@ -51,4 +51,6 @@ header li a {
 .Proflie {
     color: saddlebrown;
     background-color: rgba(255, 255, 255, 0.8);
+    height: 95%;
+    box-sizing: content-box;
 }
